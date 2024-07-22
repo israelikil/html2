@@ -1,0 +1,74 @@
+body {
+  margin-left: 10px;
+  background-color:#00001a;
+  background-attachment: 
+  
+
+
+}
+
+img {
+  border: 1px solid #ddd;
+  border-radius: 50%;
+  padding: 2px;
+  width: 150px;
+}
+
+img:hover {
+  box-shadow: 0 0 2px 1px rgba(0, 140, 186, 0.5);
+}
+
+#section-titles{
+	
+	line-height: 1.2;
+        font-weight: 150px;
+        font-size: 45px;
+        margin-bottom: 10px;
+		color:#33ccff
+
+	   
+			
+}
+p {
+  font-weight: bolder;
+  font-size: 20px;
+  color:#000066
+
+
+
+
+
+
+}
+
+.center{
+	text-align:center;
+}
+
+.yellow{
+	color:#3399ff
+
+}
+
+@import "compass/css3";
+
+@import url(https://fonts.googleapis.com/css?family=Raleway);
+body {
+  background-color: #eee;
+  min-height: 100%;
+  color: #fff;
+  //@include background-image(radial-gradient(center, #eee 0%,#bbb 100%));
+  background-image: url('http://isaacsuttell.com/img/justine.jpg');
+  background-size: cover;
+  background-position: center;
+  ;
+}
+
+.font{
+	font-family:"Lucida Handwriting", cursive;
+}
+
+.#33ccff{
+	color:#33ccff
+
+}
